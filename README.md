@@ -1,17 +1,18 @@
 <!-- PROJECT LOGO -->
-<table width="100%">
-  <tr>
-    <td align="left" width="10%">
-      <img src="./Images/taarlab.png" alt="Left Logo" width="120" />
+<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; margin: 0; padding: 0; border: none;">
+  <tr style="border: none; padding: 0; margin: 0;">
+    <td align="left" width="10%" style="padding: 0; margin: 0; border: none;">
+      <img src="./Images/taarlab.png" alt="Left Logo" width="120" style="margin: 0; padding: 0;" />
     </td>
-    <td align="center" width="80%">
-      <h1 style="margin:0; padding:0;">SSL-in-a-3D-Multi-Surface-Environment</h1>
+    <td align="center" width="80%" style="padding: 0; margin: 0; border: none;">
+      <h1 style="margin: 0; padding: 0;">SSL-in-a-3D-Multi-Surface-Environment</h1>
     </td>
-    <td align="right" width="10%">
-      <img src="./Images/UT.png" alt="Right Logo" width="120" />
+    <td align="right" width="10%" style="padding: 0; margin: 0; border: none;">
+      <img src="./Images/UT.png" alt="Right Logo" width="120" style="margin: 0; padding: 0;" />
     </td>
   </tr>
 </table>
+
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
