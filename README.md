@@ -50,7 +50,7 @@ pared to the baseline method by 50% and 97%, respectively.
  achieving an accurate localization of sparse audio samples in a
  multi-surface environment.
 
-The paper is published in an IEEE-indexed conference and can be accessed [Here](https://ieeexplore.ieee.org/document/10903645) and is provided in this current repository as well. After explaining the structure of the repo, the main sections of the performed work are briefly elaborated.
+The paper is published in an IEEE-indexed conference and can be accessed [Here](https://www.researchgate.net/publication/389607461_Sound_Source_Localization_in_a_3D_Multi-Surface_Environment_Using_Learning-Based_Methods) or [Here](https://ieeexplore.ieee.org/document/10903645) and is provided in this current repository as well. After explaining the structure of the repo, the main sections of the performed work are briefly elaborated.
 
 ## Repository Structure
 The main parts of this repository are structured as follows:
