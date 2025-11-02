@@ -53,6 +53,26 @@ pared to the baseline method by 50% and 97%, respectively.
 The paper is published in an IEEE-indexed conference and can be accessed [Here](https://ieeexplore.ieee.org/document/10903645) and is provided in this current repository as well. After explaining the structure of the repo, the main sections of the performed work are briefly elaborated.
 
 ## Repository Structure
+The main parts of this repository are structured as follows:
+```
+├── Assets
+├── Classical SSL
+├── Final Models
+├── Heatmaop
+├── SSL Classification
+├── Samples
+└── Utils
+```
+Below, the content of each directory is briefly explained:
+* ```Assets``` contain all the stored data including TDOA vlalues, model predictions, mfccs values, and some of the non-final models.
+* ```Classical SSL``` directory is where the main scripts for the classical baseline SSL algorithms, mainly the GCC-PHAT algorithm, are located.
+* ```Final Models``` is an important directory which contains the stored files of the final models used in the experiments.
+* ```Heatmap``` is the directory for scripts used for generating error heatmap.
+* ```SSL Classification``` can be considered the main directory of the project which contains all the main notebook used for processing and engineering the audio data, training the models and obtaining their predictions.
+* ```Samples``` directory includes all the data samples used in this work. There are three Kinect devices in this experiment and a total of 315 samples of ball drop for each, all available in this directory.
+* ```Utils``` directory in consisted of all the utility scripts such as scripts for handling recording via network operations, coordinates monitoring, error analysis, samples division, etc.
+
+It is worth mentioning again that the paper's document file is also available as ```paper.pdf``` in this repository.
 
 
 ## Experimental Setup
