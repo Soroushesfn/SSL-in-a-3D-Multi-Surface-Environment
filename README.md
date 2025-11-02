@@ -1,13 +1,13 @@
 <!-- PROJECT LOGO -->
 <table width="100%">
   <tr>
-    <td align="left" width="20%">
+    <td align="left" width="10%">
       <img src="./Images/taarlab.png" alt="Left Logo" width="120" />
     </td>
-    <td align="center" width="60%">
+    <td align="center" width="80%">
       <h1 style="margin:0; padding:0;">SSL-in-a-3D-Multi-Surface-Environment</h1>
     </td>
-    <td align="right" width="20%">
+    <td align="right" width="10%">
       <img src="./Images/UT.png" alt="Right Logo" width="120" />
     </td>
   </tr>
